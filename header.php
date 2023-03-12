@@ -23,7 +23,6 @@
 <body <?php body_class(); ?>>
 <?php wp_body_open(); ?>
 <div id="page" class="site">
-<div class="fixed">
 	<!-- <div class="top_toolbar hmb">
 		<div class="bar_row">
 			<div class="bar_text">We have developed a 100% mobile studio video production solution to help you through this challenging time</div>
